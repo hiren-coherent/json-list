@@ -29,9 +29,6 @@
     { "value": "communication-studies", "text": "Communication Studies" },
     { "value": "law", "text": "Law" },
     { "value": "medicine", "text": "Medicine" },
-    { "value": "nursing", "text": "Nursing" },
-    { "value": "public-health", "text": "Public Health" },
-    { "value": "social-work", "text": "Social Work" },
-    { "value": "library-science", "text": "Library Science" }
+    { "value": "nursing", "text": "Nursing" }
   ]
 }
