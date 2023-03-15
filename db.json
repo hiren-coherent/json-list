@@ -32,10 +32,6 @@
     { "value": "nursing", "text": "Nursing" },
     { "value": "public-health", "text": "Public Health" },
     { "value": "social-work", "text": "Social Work" },
-    { "value": "library-science", "text": "Library Science" },
-    { "value": "information-technology", "text": "Information Technology" },
-    { "value": "information-systems", "text": "Information Systems" },
-    { "value": "industrial-design", "text": "Industrial Design" },
-    { "value": "graphic-design", "text": "Graphic Design" }
+    { "value": "library-science", "text": "Library Science" }
   ]
 }
