@@ -36,26 +36,6 @@
     { "value": "information-technology", "text": "Information Technology" },
     { "value": "information-systems", "text": "Information Systems" },
     { "value": "industrial-design", "text": "Industrial Design" },
-    { "value": "graphic-design", "text": "Graphic Design" },
-    { "value": "fashion-design", "text": "Fashion Design" },
-    { "value": "sports-science", "text": "Sports Science" },
-    { "value": "physical-education", "text": "Physical Education" },
-    { "value": "aviation", "text": "Aviation" },
-    { "value": "astronomy", "text": "Astronomy" },
-    { "value": "geology", "text": "Geology" },
-    { "value": "geography", "text": "Geography" },
-    { "value": "philosophy", "text": "Philosophy" },
-    { "value": "theology", "text": "Theology" },
-    { "value": "religious-studies", "text": "Religious Studies" },
-    { "value": "public-administration", "text": "Public Administration" },
-    { "value": "urban-planning", "text": "Urban Planning" },
-    { "value": "agriculture", "text": "Agriculture" },
-    { "value": "food-science", "text": "Food Science" },
-    { "value": "environmental-studies", "text": "Environmental Studies" },
-    { "value": "oceanography", "text": "Oceanography" },
-    { "value": "marine-biology", "text": "Marine Biology" },
-    { "value": "tourism", "text": "Tourism" },
-    { "value": "hospitality-management", "text": "Hospitality Management" },
-    { "value": "culinary-arts", "text": "Culinary Arts" }
+    { "value": "graphic-design", "text": "Graphic Design" }
   ]
 }
